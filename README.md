@@ -1,3 +1,32 @@
+# 📱 Projetos Flutter e .NET MAUI
+
+Este repositório contém dois projetos de aplicações multiplataforma: um desenvolvido com **Flutter** e outro com **.NET MAUI**.  
+
+## 🛠️ Requisitos
+
+Antes de rodar os projetos, certifique-se de ter instalado:
+
+### **Flutter**
+- [Flutter SDK](https://docs.flutter.dev/get-started/install) (versão mais recente)
+- Android Studio ou Visual Studio Code com a extensão Flutter/Dart
+- Dispositivo físico ou emulador configurado (Android/iOS)
+- `flutter doctor` para verificar se tudo está configurado corretamente
+
+### **.NET MAUI**
+- [Visual Studio 2022](https://visualstudio.microsoft.com/) (edição **Community**, **Professional** ou **Enterprise**)
+- Workload **.NET Multi-platform App UI development (MAUI)**
+- SDKs para as plataformas desejadas (Android, iOS, Windows, macOS)
+- Emulador ou dispositivo físico para testes
+
+---
+
+## 🚀 Como rodar os projetos?
+
+### **Flutter**
+1. Acesse o diretório do projeto:
+   ```sh
+   cd flutter-app
+
 # Comparação: Flutter vs .NET MAUI
 
 ## **Flutter**  
